@@ -19,7 +19,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 3.3.1'
 gem "less-rails"
-gem 'unicorn'
+# gem 'unicorn'
 gem 'will_paginate', '~> 3.0'
 
 gem 'autoprefixer-rails'
